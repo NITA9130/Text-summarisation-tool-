@@ -12,7 +12,7 @@
 
 **MENTOR NAME**: NEELA SANTHOSH
 
-https://github.com/NITA9130/Text-summarisation-tool-.git
+
 
 
 # ENTER DESCRIPTION OF TASK PERFORMED NOT LESS THAN 500 WORDS
